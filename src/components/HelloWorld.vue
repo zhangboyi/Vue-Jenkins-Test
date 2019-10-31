@@ -8,7 +8,7 @@
           href="https://vuejs.org"
           target="_blank"
         >
-          Core Docs
+          Core Docs111
         </a>
       </li>
       <li>
@@ -41,7 +41,7 @@
           href="http://vuejs-templates.github.io/webpack/"
           target="_blank"
         >
-          Docs for This Template
+          Docs for This Template1111
         </a>
       </li>
     </ul>
