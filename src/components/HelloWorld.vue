@@ -41,11 +41,11 @@
           href="http://vuejs-templates.github.io/webpack/"
           target="_blank"
         >
-          Docs for This Teaaamplate1111
+          Docs for This wwTeaaamplate1111
         </a>
       </li>
     </ul>
-    <h2>Ecosystem1111221</h2>
+    <h2>Ecosystem111ddd1221</h2>
     <ul>
       <li>
         <a
