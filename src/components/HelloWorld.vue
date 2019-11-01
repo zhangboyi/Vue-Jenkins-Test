@@ -41,7 +41,7 @@
           href="http://vuejs-templates.github.io/webpack/"
           target="_blank"
         >
-          Docs for This Template1111
+          Docs for This Teaaamplate1111
         </a>
       </li>
     </ul>
